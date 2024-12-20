@@ -6,7 +6,7 @@ from util.portals import make_tree_portals
 from source.vistree import VisTree, VisNode
 
 src = "examples/box_with_entities.vmf" # single_multi-texture_brush.vmf
-dst = "/home/googer_/GModRoot/garrysmod/maps/gbsp_test.bsp"
+dst = "output/box_with_entities.bsp"
 
 print(f"--- Prepare ---")
 
